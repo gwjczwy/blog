@@ -19,6 +19,8 @@
 
 ![样式图1](https://raw.githubusercontent.com/gwjczwy/blog/master/layout.png)
 
+支持Markdown语法
+
 ![样式图2](https://raw.githubusercontent.com/gwjczwy/blog/master/artical_screen.png)
 
 # 初始化

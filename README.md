@@ -15,6 +15,7 @@
 ```
 ![temp](/static/artical/temp.jpg)
 ```
+#### 以下为三种不同风格样式,我就合成在一张图里了
 
 ![样式图1](https://raw.githubusercontent.com/gwjczwy/blog/master/layout.png)
 
